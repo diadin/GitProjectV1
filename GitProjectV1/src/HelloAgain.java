@@ -6,6 +6,7 @@ public class HelloAgain {
 		System.out.println("Hello from other branch!");
 		System.out.println("MARI SCHIMBA CEVA");
 		System.out.println("DIANA solves the conflict in BranchX");
+		System.out.println("DIANA another change in BranchX that later needs to be merged in master");
 
 	}
 
